@@ -2,7 +2,7 @@
 
 Fullstack Developer | Cybersecurity Enthusiast | Startup Builder
 
-Currently studying at Holberton School Paris and building secure fullstack applications with a strong focus on backend architecture, real-time systems and application security.
+Currently studying at Holberton School Paris and building secure fullstack applications with a strong focus on backend architecture, real-time systems, and application security.
 
 ---
 
@@ -33,8 +33,8 @@ Main capabilities:
 - airport delivery workflow
 - admin dashboards and notifications
 
-**Stack:** TypeScript • React 19 • Vite • React Router • TanStack Query • Radix UI • Hono • PostgreSQL • Kysely • jose • React Leaflet
-**Architecture:** fullstack monorepo with SPA frontend, modular API endpoints, server-side session auth, and role-based access control.
+**Stack:** TypeScript • React 19 • Vite • React Router • TanStack Query • Radix UI • Hono • PostgreSQL • Kysely • jose • React Leaflet  
+**Architecture:** Fullstack monorepo with SPA frontend, modular API endpoints, server-side session authentication, and role-based access control.
 
 **Repository private**
 
@@ -54,28 +54,26 @@ Main features:
 - land-related form workflows
 
 **Frontend stack:** React • JavaScript • Tailwind CSS • PostCSS • Docker • Nginx  
-**Backend stack:** Python 3.12 • virtual environment • Werkzeug-based backend (framework to confirm)atives and community-oriented digital tools.
-
-Project initiated in 2025 and still being improved.
+**Backend stack:** Python 3.12 • Werkzeug-based backend *(framework to confirm)*
 
 ---
 
 ## 🧰 Tech Stack
 
 **Frontend**  
-React • Vite • React Router • Tailwind CSS • Radix UI • shadcn/ui
+React • TypeScript • JavaScript • Vite • React Router • Tailwind CSS • Radix UI • shadcn/ui • React Query
 
 **Backend**  
-Java 17 • Spring Boot • Maven • Spring Security • Spring Data JPA
+Java 17 • Spring Boot • Maven • Hono • Python
 
 **Database**  
-PostgreSQL • H2
+PostgreSQL • H2 • Kysely
 
 **Real-time**  
 WebSocket • SockJS • STOMP
 
 **Tools**  
-Linux • Git • GitHub • VS Code
+Linux • Git • GitHub • VS Code • Docker • Nginx
 
 **Security**  
 JWT • Authentication / Authorization • API Security • OWASP Top 10
