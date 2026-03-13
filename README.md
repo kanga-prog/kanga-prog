@@ -1,12 +1,27 @@
 # 👋 Hi, I'm Brice Kanga
 
-Fullstack Developer | Cybersecurity Enthusiast | Startup Builder
+### Fullstack Developer | Cybersecurity Enthusiast | Startup Builder
 
-Currently studying at Holberton School Paris and building secure fullstack applications with a strong focus on backend architecture, real-time systems, and application security.
+I'm currently studying at **Holberton School Paris** and building secure fullstack applications with a strong focus on **backend architecture**, **real-time systems**, and **application security**.
 
 ---
 
-## 🚀 Projects
+## 🔧 Tech Focus
+
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-8B0000)
+
+---
+
+## 🚀 Featured Projects
 
 ### 🌐 WatYouFace
 Fullstack social platform including:
@@ -22,7 +37,7 @@ Fullstack social platform including:
 ---
 
 ### ✈️ Bagage-Voyage
-Private startup project focused on pre-trip luggage logistics.
+Private startup project focused on **pre-trip luggage logistics**.
 
 Main capabilities:
 - booking workflow
@@ -41,7 +56,7 @@ Main capabilities:
 ---
 
 ### 🌱 Rebois-Connect
-Collaborative portfolio project focused on environmental and land-related digital services.
+Collaborative portfolio project focused on **environmental and land-related digital services**.
 
 Main features:
 - authentication and 2FA
@@ -54,37 +69,46 @@ Main features:
 - land-related form workflows
 
 **Frontend stack:** React • JavaScript • Tailwind CSS • PostCSS • Docker • Nginx  
-**Backend stack:** Python 3.12 • Werkzeug-based backend *
+**Backend stack:** Python 3.12 • Werkzeug-based backend *(framework to confirm)*
 
 ---
 
 ## 🧰 Tech Stack
 
-**Frontend**  
+### Frontend
 React • TypeScript • JavaScript • Vite • React Router • Tailwind CSS • Radix UI • shadcn/ui • React Query
 
-**Backend**  
+### Backend
 Java 17 • Spring Boot • Maven • Hono • Python
 
-**Database**  
+### Database
 PostgreSQL • H2 • Kysely
 
-**Real-time**  
+### Real-time
 WebSocket • SockJS • STOMP
 
-**Tools**  
+### Tools
 Linux • Git • GitHub • VS Code • Docker • Nginx
 
-**Security**  
+### Security
 JWT • Authentication / Authorization • API Security • OWASP Top 10
+
+---
+
+## 📈 GitHub Stats
+
+![Brice's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanga-prog&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanga-prog&layout=compact)
 
 ---
 
 ## 📫 Contact
 
-LinkedIn: (add your link)  
-Email: (add your email)
+- LinkedIn: [kanga-kouakou-brice-8a787a16a](https://www.linkedin.com/in/kanga-kouakou-brice-8a787a16a)
+- Email: kangaabricekouakou@gmail.com
 
 ---
 
-Technology should solve real-world problems.
+### 💬 Motto
+
+**Technology should solve real-world problems.**
