@@ -54,7 +54,7 @@ Main features:
 - land-related form workflows
 
 **Frontend stack:** React • JavaScript • Tailwind CSS • PostCSS • Docker • Nginx  
-**Backend stack:** Python 3.12 • Werkzeug-based backend *(framework to confirm)*
+**Backend stack:** Python 3.12 • Werkzeug-based backend *
 
 ---
 
