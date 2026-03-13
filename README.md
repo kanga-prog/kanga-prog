@@ -22,9 +22,19 @@ Fullstack social platform including:
 ---
 
 ### ✈️ Bagage-Voyage
-Startup project currently in development.
+Private startup project focused on pre-trip luggage logistics.
 
-Smart platform designed to help travelers organize trips and manage luggage efficiently.
+Main capabilities:
+- booking workflow
+- baggage declaration and compliance checks
+- PNR validation
+- QR code generation and scanning
+- driver mission management
+- airport delivery workflow
+- admin dashboards and notifications
+
+**Stack:** TypeScript • React 19 • Vite • React Router • TanStack Query • Radix UI • Hono • PostgreSQL • Kysely • jose • React Leaflet
+**Architecture:** fullstack monorepo with SPA frontend, modular API endpoints, server-side session auth, and role-based access control.
 
 **Repository private**
 
