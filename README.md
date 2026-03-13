@@ -41,7 +41,20 @@ Main capabilities:
 ---
 
 ### 🌱 Rebois-Connect
-Environmental platform supporting reforestation initiatives and community-oriented digital tools.
+Collaborative portfolio project focused on environmental and land-related digital services.
+
+Main features:
+- authentication and 2FA
+- protected routes
+- dashboard
+- profile and news feed
+- messaging system
+- timeline
+- map-based selection
+- land-related form workflows
+
+**Frontend stack:** React • JavaScript • Tailwind CSS • PostCSS • Docker • Nginx  
+**Backend stack:** Python 3.12 • virtual environment • Werkzeug-based backend (framework to confirm)atives and community-oriented digital tools.
 
 Project initiated in 2025 and still being improved.
 
