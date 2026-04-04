@@ -5,19 +5,13 @@
 I'm currently studying at **Holberton School Paris** and building secure fullstack applications with a strong focus on **backend architecture**, **real-time systems**, and **application security**.
 
 ---
-
+<!-- AUTO-TECH-FOCUS:START -->
 ## 🔧 Tech Focus
 
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-8B0000)
+> Auto-generated from repository languages and repository metadata.
+
+Chargement...
+<!-- AUTO-TECH-FOCUS:END -->
 
 ---
 
