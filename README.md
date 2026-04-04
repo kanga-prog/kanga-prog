@@ -10,9 +10,9 @@ I'm currently studying at **Holberton School Paris** and building secure fullsta
 
 > Auto-generated from repository languages and repository metadata.
 
-Detected stack signals: **Python, C++, C, JavaScript, CSS**
+Detected stack signals: **Python, C++, TypeScript, CSS, C**
 
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-8B0000)](https://owasp.org/www-project-top-ten/) [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://kernel.org/) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://docs.docker.com/) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://docs.python.org/3/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](https://dev.java/)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-8B0000)](https://owasp.org/www-project-top-ten/) [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://kernel.org/) [![React](https://img.shields.io/badge/React-20232A?logo=react)](https://react.dev/) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://docs.docker.com/) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://docs.python.org/3/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](https://dev.java/)
 <!-- AUTO-TECH-FOCUS:END -->
 
 ---
