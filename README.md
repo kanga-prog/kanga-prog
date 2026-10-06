@@ -1,110 +1,47 @@
-# 👋 Hi, I'm Brice Kanga
+# Kouakou Brice Kanga
 
-### Fullstack Developer | Cybersecurity Enthusiast | Startup Builder
+### Développeur fullstack | Cybersécurité junior | Recherche de stage
 
-I'm currently studying at **Holberton School Paris** and building secure fullstack applications with a strong focus on **backend architecture**, **real-time systems**, and **application security**.
+Développeur fullstack formé à Holberton School Paris et spécialisé en cybersécurité, je recherche un **stage** en sécurité applicative, développement sécurisé ou détection/SOC junior. Mes projets associent conception d'applications, contrôle d'accès, tests et validation de la chaîne de détection dans un laboratoire autorisé.
 
----
-<!-- AUTO-TECH-FOCUS:START -->
-## 🔧 Tech Focus
+**Bio proposée :** Développeur fullstack • Cybersécurité junior • AppSec & détection • Recherche de stage • Holberton School Paris.
 
-> Auto-generated from repository languages and repository metadata.
+## Compétences
 
-Detected stack signals: **Python, C++, TypeScript, CSS, C**
+| Domaine | Éléments documentés |
+| --- | --- |
+| Sécurité applicative | Authentification et autorisation, JWT, rôles/RBAC, contrôle d'accès aux API ; notions OWASP Top 10, IDOR/BOLA, SSRF, injections de commandes et LFI/RFI étudiées dans un cadre de formation et de lab autorisé. |
+| Détection et systèmes | Linux, Bash, TCP/IP, DNS, HTTPS/TLS, SSH ; auditd, Wazuh, Caldera/Sandcat et MITRE ATT&CK dans un laboratoire contrôlé. |
+| Développement | Python, Java, JavaScript, TypeScript, React, Node.js/Express, Spring Boot/Spring Security, Flask ; PostgreSQL, MongoDB et SQL. |
+| Méthode | Architecture, cahier des charges, planification, issues/PR, tests, documentation et passation. |
 
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-8B0000)](https://owasp.org/www-project-top-ten/) [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://kernel.org/) [![React](https://img.shields.io/badge/React-20232A?logo=react)](https://react.dev/) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://docs.docker.com/) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://docs.python.org/3/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](https://dev.java/)
-<!-- AUTO-TECH-FOCUS:END -->
+Les tests de sécurité et les simulations d'attaque sont réalisés uniquement dans des environnements autorisés.
 
----
+## Projets sélectionnés
 
-## 🚀 Featured Projects
+Les liens ci-dessous ne sont affichés que lorsqu'ils sont confirmés publics. Au moment de cette mise à jour, leur disponibilité n'a pas pu être vérifiée : aucune URL de projet n'est donc présentée comme publique par défaut.
 
-### 🌐 WatYouFace
-Fullstack social platform including:
-- social feed
-- real-time messaging
-- marketplace
-- digital wallet
-- contract management
+| Projet | Objectif | Contribution personnelle et preuve disponible | Technologies observées | Lien public |
+| --- | --- | --- | --- | --- |
+| **Bagage Voyage** | Plateforme personnelle de collecte et d'acheminement de bagages vers les aéroports. | Conception du parcours client et des règles de réservation, créneaux, collecte et remise ; cadrage et documentation de projet. Le code et les évolutions de paiement ne sont pas publiés ici. | À confirmer avant publication : l'arborescence locale consultée contient principalement des documents de conception. | Privé / présentation expurgée à préparer |
+| **PurpleWatch** | Portfolio Purple Team en équipe, dans un laboratoire autorisé. | Validation documentée de la chaîne Linux **Caldera → auditd → Wazuh** ; règles de détection `execve`, collecte et analyse d'alertes, avec documentation de tests et passation. | Caldera, Sandcat, auditd, Wazuh, MITRE ATT&CK, Python/FastAPI (projet collectif). | À confirmer |
+| **WatYouFace** | Plateforme sociale fullstack. | Contributions versionnées sur le backend ; code présent pour authentification JWT, rôles, endpoints protégés et WebSocket. Les fonctionnalités à présenter sont limitées à celles vérifiées dans le dépôt. | React, Java 17, Spring Boot, Spring Security, JWT, PostgreSQL, WebSocket. | À confirmer |
+| **Rebois-Connect** | Projet collaboratif de services environnementaux et fonciers. | Contributions Git historiques côté frontend. Les changements locaux actuels étant collectifs/non publiés, je ne les attribue pas individuellement. | React, Tailwind CSS, Python/Flask, Docker. | À confirmer |
 
-**Frontend stack:** React 19 • Vite • React Router • Tailwind CSS • Radix UI • shadcn/ui • SockJS • STOMP  
-**Backend stack:** Java 17 • Spring Boot • Maven • Spring Security • JWT • Spring Data JPA • PostgreSQL • H2 • WebSocket • Spring Mail • PDFBox
+Les sources, le périmètre de chaque preuve et les éléments restant à confirmer figurent dans [l'inventaire de compétences](docs/competences-verifiees.md).
 
----
+## Formation
 
-### ✈️ Bagage-Voyage
-Private startup project focused on **pre-trip luggage logistics**.
+**Holberton School Paris**
 
-Main capabilities:
-- booking workflow
-- baggage declaration and compliance checks
-- PNR validation
-- QR code generation and scanning
-- driver mission management
-- airport delivery workflow
-- admin dashboards and notifications
+- Fondamentaux et développement fullstack — 2024–2025
+- Spécialisation cybersécurité — décembre 2025 à septembre 2026
 
-**Stack:** TypeScript • React 19 • Vite • React Router • TanStack Query • Radix UI • Hono • PostgreSQL • Kysely • jose • React Leaflet  
-**Architecture:** Fullstack monorepo with SPA frontend, modular API endpoints, server-side session authentication, and role-based access control.
+## Recherche de stage
 
-**Repository private**
+Je recherche une expérience de stage où contribuer à la sécurité d'applications, au développement sécurisé ou aux opérations de détection junior : analyse et correction de contrôles d'accès, tests dans un périmètre autorisé, automatisation et documentation de détection.
 
----
+## Contact
 
-### 🌱 Rebois-Connect
-Collaborative portfolio project focused on **environmental and land-related digital services**.
-
-Main features:
-- authentication and 2FA
-- protected routes
-- dashboard
-- profile and news feed
-- messaging system
-- timeline
-- map-based selection
-- land-related form workflows
-
-**Frontend stack:** React • JavaScript • Tailwind CSS • PostCSS • Docker • Nginx  
-**Backend stack:** Python 3.12 • Werkzeug-based backend 
-
----
-
-## 🧰 Tech Stack
-
-### Frontend
-React • TypeScript • JavaScript • Vite • React Router • Tailwind CSS • Radix UI • shadcn/ui • React Query
-
-### Backend
-Java 17 • Spring Boot • Maven • Hono • Python
-
-### Database
-PostgreSQL • H2 • Kysely
-
-### Real-time
-WebSocket • SockJS • STOMP
-
-### Tools
-Linux • Git • GitHub • VS Code • Docker • Nginx
-
-### Security
-JWT • Authentication / Authorization • API Security • OWASP Top 10
-
----
-
-## 📈 GitHub Stats
-
-![Brice's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanga-prog&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanga-prog&layout=compact)
-
----
-
-## 📫 Contact
-
-- LinkedIn: [kanga-kouakou-brice-8a787a16a](https://www.linkedin.com/in/kanga-kouakou-brice-8a787a16a)
-- Email: kangaabricekouakou@gmail.com
-
----
-
-### 💬 Motto
-
-**Technology should solve real-world problems.**
+- GitHub : [@kanga-prog](https://github.com/kanga-prog)
+- Email : [kangabricekouakou@gmail.com](mailto:kangabricekouakou@gmail.com)
