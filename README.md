@@ -19,12 +19,10 @@ Les tests de sécurité et les simulations d'attaque sont réalisés uniquement 
 
 ## Projets sélectionnés
 
-Les liens ci-dessous ne sont affichés que lorsqu'ils sont confirmés publics. Au moment de cette mise à jour, leur disponibilité n'a pas pu être vérifiée : aucune URL de projet n'est donc présentée comme publique par défaut.
-
 | Projet | Objectif | Contribution personnelle et preuve disponible | Technologies observées | Lien public |
 | --- | --- | --- | --- | --- |
-| **Bagage Voyage** | Plateforme personnelle de collecte et d'acheminement de bagages vers les aéroports. | Conception du parcours client et des règles de réservation, créneaux, collecte et remise ; cadrage et documentation de projet. Le code et les évolutions de paiement ne sont pas publiés ici. | À confirmer avant publication : l'arborescence locale consultée contient principalement des documents de conception. | Privé / présentation expurgée à préparer |
-| **PurpleWatch** | Portfolio Purple Team en équipe, dans un laboratoire autorisé. | Validation documentée de la chaîne Linux **Caldera → auditd → Wazuh** ; règles de détection `execve`, collecte et analyse d'alertes, avec documentation de tests et passation. | Caldera, Sandcat, auditd, Wazuh, MITRE ATT&CK, Python/FastAPI (projet collectif). | À confirmer |
+| **Bagage Voyage** | Plateforme personnelle de collecte et d'acheminement de bagages vers les aéroports. | Conception du parcours client et des règles de réservation, créneaux, collecte et remise ; cadrage et documentation de projet. Le code et les évolutions de paiement ne sont pas publiés ici. | À confirmer avant publication : l'arborescence locale consultée contient principalement des documents de conception. | [bagagevoyage.com](https://bagagevoyage.com/) |
+| **PurpleWatch** | Portfolio Purple Team en équipe, dans un laboratoire autorisé. | Validation documentée de la chaîne Linux **Caldera → auditd → Wazuh** ; règles de détection `execve`, collecte et analyse d'alertes, avec documentation de tests et passation. | Caldera, Sandcat, auditd, Wazuh, MITRE ATT&CK, Python/FastAPI (projet collectif). | [GitHub](https://github.com/kanga-prog/PurpleWatch) |
 | **WatYouFace** | Plateforme sociale fullstack. | Contributions versionnées sur le backend ; code présent pour authentification JWT, rôles, endpoints protégés et WebSocket. Les fonctionnalités à présenter sont limitées à celles vérifiées dans le dépôt. | React, Java 17, Spring Boot, Spring Security, JWT, PostgreSQL, WebSocket. | À confirmer |
 | **Rebois-Connect** | Projet collaboratif de services environnementaux et fonciers. | Contributions Git historiques côté frontend. Les changements locaux actuels étant collectifs/non publiés, je ne les attribue pas individuellement. | React, Tailwind CSS, Python/Flask, Docker. | À confirmer |
 

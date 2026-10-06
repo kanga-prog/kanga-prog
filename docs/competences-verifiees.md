@@ -42,7 +42,7 @@ Les éléments suivants peuvent rester dans une section « formation et labs » 
 
 ## Publication et liens
 
-- Les remotes locaux identifient les dépôts attendus, mais l'accès GitHub/API disponible lors de l'audit ne permettait pas de confirmer leur visibilité publique. Les lignes « À confirmer » du README ne doivent pas être remplacées par une URL avant vérification manuelle.
+- Les liens publics de [Bagage Voyage](https://bagagevoyage.com/) et de [PurpleWatch](https://github.com/kanga-prog/PurpleWatch) ont été vérifiés comme accessibles. Les autres liens de projets restent à confirmer avant publication.
 - Bagage Voyage doit rester une présentation publique limitée : description, architecture expurgée et captures anonymisées uniquement. Aucun code privé, document administratif, donnée client, secret, IP de lab ou lien privé ne doit être publié.
 - Dépôts candidats à épingler après vérification de visibilité et nettoyage : PurpleWatch (détection), WatYouFace backend + frontend (fullstack sécurisé), `holbertonschool-cyber_security` lorsqu'il contient des labs publiables, et un dépôt Bagage Voyage expurgé distinct si nécessaire.
 
